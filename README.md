@@ -1,4 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Visudhan%20G&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%26%20Django%20%7C%20Exploring%20ML&descAlignY=55&descSize=18&descColor=aaaaaa)
+<div align="center">
+
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Visudhan+G;Backend+Developer;Python+%26+Django+Engineer;Exploring+Machine+Learning)
+
+</div>
 
 ## 🚀 About Me
 
@@ -128,7 +132,7 @@ me.say_hi()
 
 ---
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)](https://github.com/Visudhan)
+
 
 *⚡ "First, solve the problem. Then, write the code." — John Johnson*
 

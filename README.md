@@ -50,7 +50,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visudhan&layout=compact&theme=dark&cache_seconds=1800)---
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=visudhan&layout=compact&theme=github_dark&langs_count=6&hide_border=true&card_width=350)](https://github.com/visudhan)
+
 
 ## 📊 GitHub Statistics
 

@@ -50,7 +50,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visudhan&layout=compact&theme=dark)](https://github.com/visudhan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Visudhan&layout=compact&theme=dark)](https://github.com/Visudhan)
 
 ---
 
